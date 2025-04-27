@@ -1,0 +1,7 @@
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/learningapp
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/appsettings.Development.json
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/appsettings.json
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/learningapp.dll
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/learningapp.deps.json
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/ivanli/Code/Cert_Prep/AZ204/tmp/learningapp/bin/Publish/learningapp.pdb
